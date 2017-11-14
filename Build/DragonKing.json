@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "DragonKing.data.unityweb",
+"asmCodeUrl": "DragonKing.asm.code.unityweb",
+"asmMemoryUrl": "DragonKing.asm.memory.unityweb",
+"asmFrameworkUrl": "DragonKing.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
